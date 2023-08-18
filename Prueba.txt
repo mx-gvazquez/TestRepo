@@ -11,3 +11,6 @@ La fecha es AGOSTO del 2023.
 Estamos en RamaUno, y estamos creando un cambio para el Merge a Master.
 
 Este es un cambio creado directamente en GitHub en el 'TestRepo'.
+
+Hoy 18 de Agosto creamos una llave SSH y estamos haciendo un cambio en LOCAL.
+    Vamos a subir este cambio a GitHub mediante SSH, por que es mas seguro que HTML.
