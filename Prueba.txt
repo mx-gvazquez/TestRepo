@@ -1,4 +1,4 @@
-Hola todos.
+ Hola todos.
 
 Adios a todos.
 
@@ -14,3 +14,5 @@ Este es un cambio creado directamente en GitHub en el 'TestRepo'.
 
 Hoy 18 de Agosto creamos una llave SSH y estamos haciendo un cambio en LOCAL.
     Vamos a subir este cambio a GitHub mediante SSH, por que es mas seguro que HTML.
+
+- Este es un cambio hecho directamente en GitHub y se va a mandar a Git Local, mediante llaves SSH.
